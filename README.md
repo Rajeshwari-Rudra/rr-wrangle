@@ -41,3 +41,4 @@ $ eval "$(paste -d+ <(sed 's/\(.*\)/echo $((\1/' brutusCount.txt) <(sed 's/\(.*\
 ## Resources
 - [Total count of two words](https://unix.stackexchange.com/questions/501486/how-do-i-add-numbers-from-two-txt-files-with-bash)
 - [Calculation of multiple words](https://stackoverflow.com/questions/7171891/how-do-i-find-the-count-of-multiple-words-in-a-text-file)
+- [Reference Repo](https://github.com/denisecase/shell-data-processing)
