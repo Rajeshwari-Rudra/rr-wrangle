@@ -31,6 +31,13 @@ $ eval "$(paste -d+ <(sed 's/\(.*\)/echo $((\1/' brutusCount.txt) <(sed 's/\(.*\
 
 ```
 
+## Files
+- [Input File](https://github.com/Rajeshwari-Rudra/rr-wrangle/blob/main/input.txt)
+- [Brutus Count](https://github.com/Rajeshwari-Rudra/rr-wrangle/blob/main/brutusCount.txt)
+- [Coriolanus Count](https://github.com/Rajeshwari-Rudra/rr-wrangle/blob/main/coriolanusCount.txt)
+- [Total Count Output file](https://github.com/Rajeshwari-Rudra/rr-wrangle/blob/main/totalCount.txt)
+
+
 ## Resources
 - [Total count of two words](https://unix.stackexchange.com/questions/501486/how-do-i-add-numbers-from-two-txt-files-with-bash)
 - [Calculation of multiple words](https://stackoverflow.com/questions/7171891/how-do-i-find-the-count-of-multiple-words-in-a-text-file)
