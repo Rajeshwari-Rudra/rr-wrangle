@@ -8,7 +8,7 @@ Demo on data wrangling using Bash
 ``` 
 http://shakespeare.mit.edu/coriolanus/full.html
 ```
-
+I have choosen two speakers to retrive the data, they are named as follows :-
 * Speaker 1 :- BRUTUS
 * Speaker 2 :- CORIOLANUS
 
